@@ -1,0 +1,54 @@
+.plan{
+    margin: 0;
+    padding: 0;
+}
+/*plan__main*/
+.plan__logo{
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+/*plan__start*/
+.plan__start{
+    padding-top: 2%;
+}
+.plan__start_logo{
+    display: flex;
+    align-items: start;
+    width: 100%;
+    padding-left: 4%;
+}
+.plan__logo_img{
+    width: 17%;
+}
+.plan__header{
+    padding-top: 2%;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: center;
+}
+.plan__header h2{
+    color:#60C1C6;
+    font-size: 50px;
+    font-weight: 900;
+}
+/*plan__type*/
+.plan__type{
+    padding-top: 2%;
+}
+/*plan__binar*/
+.plan__binar{
+    padding-top: 2%;
+}
+/*plan__profit*/
+.plan__profit{
+    padding-top: 2%;
+}
+/*plan__mlm*/
+.plan__mlm{
+    padding-top: 2%;
+}
+/*plan__kvalika*/
+.plan__kvalika{
+    padding-top: 2%;
+}

@@ -1,0 +1,22 @@
+.mission-video iframe {
+    width: 100%;
+    max-width: 580px;
+    height: 350px;
+    margin: 0;
+    border-radius: 16px;
+}
+.br{
+    border-radius: 20px;
+}
+@media (min-width: 769px) {
+    .mission-video {
+        width: 50%;
+    }
+
+    .mission-video iframe {
+        width: 100%;
+    }
+}
+.carousel .slide{
+    background: #f7f7fc!important;
+}
